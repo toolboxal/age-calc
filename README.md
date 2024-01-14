@@ -6,8 +6,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [on Front End Mentor](https://www.frontendmentor.io/solutions/femagecalculator-built-with-react-and-tailwind-GMWDU4T9wa)
+- Live Site URL: [https://fem-age-calc.vercel.app/](https://fem-age-calc.vercel.app/)
 
 ### Built with
 

@@ -61,7 +61,7 @@ const Form = ({ handleTime }) => {
     } else if (day === "31" && !checkIsValid) {
       setError("day", {
         type: "custom",
-        message: "month has no 31st",
+        message: "30th is last day of this month",
       });
     } else {
       handleTime(userDate);
